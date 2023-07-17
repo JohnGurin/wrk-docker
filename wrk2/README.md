@@ -6,3 +6,6 @@
 
 * wrk2 source:\
 [https://github.com/giltene/wrk2](https://github.com/giltene/wrk2)
+
+* docker hub:\
+[https://hub.docker.com/r/johngurin/wrk2](https://hub.docker.com/r/johngurin/wrk2)
